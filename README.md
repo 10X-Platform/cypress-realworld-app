@@ -50,8 +50,7 @@ A payment application to demonstrate <strong>real-world</strong> usage of <a hre
 👮‍♂️ Local Authentication  
 🔥 Database Seeding with End-to-end Tests  
 💻 CI/CD + [Cypress Dashboard][cypressdashboard]
-
-## Getting Started
+Testing Github Actions
 
 The Cypress Real-World App (RWA) is a full-stack Express/React application backed by a local JSON database ([lowdb]).
 
